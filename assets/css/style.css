@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Changed divs to semantic elements */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -86,6 +87,7 @@ aside {
     background-color: #2589bd;
 }
 
+/* Consolodated redundant code sections into single class */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -102,6 +104,7 @@ aside {
     max-width: 150px;
 }
 
+/* Created new class to consolodate redundant blocks of code */
 .content-container {
     margin-bottom: 20px;
     padding: 50px;
