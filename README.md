@@ -8,4 +8,5 @@ Refactored code for SEO optimization/accessibility standards.
 - Added alt text to images and icons
 - Recorded CSS changes with comments
 
+https://ricadbur.github.io/horiseon-refactor/
 ![Screenshot of webpage](/Horiseon%20Refactor/assets/images/README-screenshot.png)
