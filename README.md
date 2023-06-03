@@ -9,4 +9,4 @@ Refactored code for SEO optimization/accessibility standards.
 - Recorded CSS changes with comments
 
 https://ricadbur.github.io/horiseon-refactor/
-![Screenshot of webpage](/Horiseon%20Refactor/assets/images/README-screenshot.png)
+![Screenshot of webpage](assets/images/README-screenshot.png)
